@@ -1,0 +1,2 @@
+2026-05-20 11:01:56 - HTTP: 422 - Response: {"message":"The last name field is required.","data":[],"errors":{"last_name":["The last name field is required."]}} - Error: 
+2026-05-20 11:15:41 - HTTP: 422 - Response: {"message":"The last name field is required.","data":[],"errors":{"last_name":["The last name field is required."]}} - Error: 
